@@ -1,6 +1,6 @@
 #  ꕥ Foofy Restaurant & Vending Machine System ꕥ
 Welcome to the Foofy Restaurant Management System, a console-based Java application designed to simulate an end-to-end restaurant ordering process coupled with an automated drink vending machine. 
-Developed as part of an academic assignment to apply and reinforce the concepts learned in Object-Oriented Programming (OOP) in 2023.
+Developed as part of an academic assignment to apply and reinforce the concepts learned in Object-Oriented Programming (OOP).
 ## Key Features
 - Hierarchical Menu Management: Leverages a multi-way tree structure to categorize food items dynamically into categories and subcategories (e.g., Burgers -> Fried Burgers / Grilled Burgers).
 - Live Stock & Inventory Tracking: Every food and drink item maintains its own stock level. If a selection exceeds inventory capacity, the application flags an error and prompts an update.
