@@ -1,3 +1,5 @@
+<img width="478" height="385" alt="Screenshot 2026-06-17 060025" src="https://github.com/user-attachments/assets/8194b3f9-362d-4b9c-9e5d-3555880606a4" />
+
 #  ꕥ Foofy Restaurant & Vending Machine System ꕥ
 Welcome to the Foofy Restaurant Management System, a console-based Java application designed to simulate an end-to-end restaurant ordering process coupled with an automated drink vending machine. 
 Developed as part of an academic assignment to apply and reinforce the concepts learned in Object-Oriented Programming (OOP).
